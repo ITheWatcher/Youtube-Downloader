@@ -28,7 +28,7 @@ Follow these steps to download and use the YouTube Downloader:
    ```bash
    git clone https://github.com/ITheWatcher/Youtube-Downloader.git
 
-2. **Navigate to the Directory:*
+2. **Navigate to the Directory:**
    ```bash
    cd Youtube-Downloader
 
@@ -39,6 +39,7 @@ Follow these steps to download and use the YouTube Downloader:
 4. **Run the Script:**
    ```bash
    python youtube_downloader.py
+   ```
 
 **Disclaimer:** This script is intended for personal use only. Respect YouTube's terms of service and the rights of content creators.
 
