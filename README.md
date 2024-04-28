@@ -18,8 +18,7 @@ This Python script provides a simple command-line interface for downloading vide
 
 ### Requirements:
 - Python 3.x
-- `pytube` library (`pip install pytube`)
-- `tkinter` library (usually comes pre-installed with Python)
+- `pytube`, `tkinter` library (`pip install -r requirements`) this will install all requirements needed.
 
 Feel free to contribute, report issues, or suggest enhancements!
 
