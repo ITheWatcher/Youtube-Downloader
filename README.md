@@ -18,10 +18,8 @@ This Python script provides a simple command-line interface for downloading vide
 
 ### Requirements:
 - Python 3.x
-- `pytube`, `tkinter` library (`pip install -r requirements`) this will install all requirements needed.
-
-Feel free to contribute, report issues, or suggest enhancements!
+- Install dependencies: `pip install -r requirements.txt`
 
 **Disclaimer:** This script is intended for personal use only. Respect YouTube's terms of service and the rights of content creators.
 
-For more information and updates, join our Telegram channel: [https://t.me/hh8cc](https://t.me/hh8cc) | Find us on GitHub: [GitHub Link]
+Feel free to contribute, report issues, or suggest enhancements! Contact me on Telegram: [https://t.me/hh8cc](https://t.me/hh8cc) | Find me on GitHub: [GitHub Link](https://github.com/ITheWatcher)
