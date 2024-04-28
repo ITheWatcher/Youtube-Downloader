@@ -20,10 +20,6 @@ This Python script provides a simple command-line interface for downloading vide
 - Python 3.x
 - `pytube`, `tkinter` library (`pip install -r requirements.txt`)
 
-**Disclaimer:** This script is intended for personal use only. Respect YouTube's terms of service and the rights of content creators.
-
-Feel free to contribute, report issues, or suggest enhancements! Contact me on Telegram: [https://t.me/hh8cc](https://t.me/hh8cc) | Find me on GitHub: [GitHub Link](https://github.com/ITheWatcher)
-
 ## How to Use
 
 Follow these steps to download and use the YouTube Downloader:
@@ -31,3 +27,23 @@ Follow these steps to download and use the YouTube Downloader:
 1. **Clone the Repository:**
    ```bash
    git clone https://github.com/ITheWatcher/Youtube-Downloader.git
+
+2. ***Navigate to the Directory:*
+   ```bash
+   cd Youtube-Downloader
+
+3. Install Dependencies:
+   ```bash
+   pip install -r requirements.txt
+
+4. Run the Script:
+   ```bash
+   python youtube_downloader.py
+
+
+
+**Disclaimer:** This script is intended for personal use only. Respect YouTube's terms of service and the rights of content creators.
+
+Feel free to contribute, report issues, or suggest enhancements! Contact me on Telegram: [https://t.me/hh8cc](https://t.me/hh8cc) | Find me on GitHub: [GitHub Link](https://github.com/ITheWatcher)
+
+
