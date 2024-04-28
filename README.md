@@ -40,7 +40,6 @@ Follow these steps to download and use the YouTube Downloader:
    ```bash
    python youtube_downloader.py
 
-
 **Disclaimer:** This script is intended for personal use only. Respect YouTube's terms of service and the rights of content creators.
 
 Feel free to contribute, report issues, or suggest enhancements! Contact me on Telegram: [https://t.me/hh8cc](https://t.me/hh8cc) | Find me on GitHub: [GitHub Link](https://github.com/ITheWatcher)
